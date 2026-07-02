@@ -1,2 +1,2 @@
-# AutoCopyDestination
-Destination repo for my auto copy example
+# AutoCopySource
+Example setup - this is the source repo for an automatic copy.
